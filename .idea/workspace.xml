@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5387869-2201-4227-a813-1a4be6177e28" name="Default Changelist" comment="1.初始化代码">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="sh6u9lc2" />
+  </component>
+  <component name="ProjectId" id="1gQh06yh1N5jFLHGibWzrmHzfjE" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5387869-2201-4227-a813-1a4be6177e28" name="Default Changelist" comment="" />
+      <created>1598052497730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598052497730</updated>
+      <workItem from="1598052502774" duration="2166000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.初始化代码">
+      <created>1598054358968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598054358968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.初始化代码">
+      <created>1598054990943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598054990943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.初始化代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.初始化代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="116" key="VCS.ChangeListViewerDialog" timestamp="1598054581961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="116" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1598054581961" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598055566893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598055566893" />
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog" timestamp="1598054615952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1598054615952" />
+    <state x="477" y="199" key="git4idea.merge.GitPullDialog" timestamp="1598055552059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1598055552059" />
+    <state x="570" y="318" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598055523417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="318" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598055523417" />
+    <state x="578" y="306" key="git4idea.ui.GitResetDialog" timestamp="1598054583376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="306" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1598054583376" />
+    <state x="599" y="310" key="git4idea.ui.GitStashDialog" timestamp="1598054463778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="310" key="git4idea.ui.GitStashDialog/0.0.1536.824@0.0.1536.824" timestamp="1598054463778" />
+  </component>
+</project>
